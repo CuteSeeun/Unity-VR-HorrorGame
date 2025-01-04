@@ -1,5 +1,5 @@
 ## 프로젝트 소개
-<img src="https://github.com/CuteSeeun/Unity-VR-HorrorGame/blob/main/3_2.png" alt="커버 이미지" width="800" />  
+<img src="https://github.com/CuteSeeun/Unity-VR-HorrorGame/blob/main/3_2.png" alt="커버 이미지" width="950" />  
 
 <details>
   <summary>
