@@ -22,7 +22,7 @@
 - 2024.05.23 ~ 2024.06.27  
 
 ## 팀원 소개
-- **[김재흠](https://github.com/nasri016)** : 
+- **[김재흠](https://github.com/nasri016)** : 애니메이션, 쉐이더, 조명, 카메라
 - **[김수민](https://github.com/eneru7i)** : 플레이어(Player)
 - **[최세은](https://github.com/CuteSeeun)** : 레벨디자인, 상호작용  
 
